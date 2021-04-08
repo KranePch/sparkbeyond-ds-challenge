@@ -1,5 +1,8 @@
-# sparkbeyond-ds-challenge
-Codes with Model and Visualization for Data Science Challenge from Sparkbeyond
+# SparkBeyond-ds-challenge
+Codes with Model and Visualization for Data Science Challenge from SparkBeyond
+
+## Problem to this solution
+https://www.kaggle.com/c/predict-west-nile-virus/overview
 
 ## "data" folder
 - This folder contains .csv files which used for solving this problem
